@@ -35,7 +35,7 @@
     "@babel/core": "^7.12.3",
     "babel-preset-gatsby-package": "^1.0.0-next.0",
     "cross-env": "^7.0.3",
-    "nock": "^13.0.6"
+    "nock": "^13.0.7"
   },
   "homepage": "https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-source-contentful#readme",
   "keywords": [
